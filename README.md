@@ -1,4 +1,4 @@
-#MST-Prim
+# MST-Prim
 
 -Descrizione: 
 Risolvere il problema MST, su grafi non diretti e connessi con pesi 
